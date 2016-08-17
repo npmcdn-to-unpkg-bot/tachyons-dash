@@ -1,0 +1,13 @@
+{
+    "name": "Tachyons",
+    "package": "tachyons",
+    "index": "tachyons.io/index.html",
+    "selectors": {
+        "title.Docs": "Module",
+        "title.Component": "Component"
+    },
+    "ignore": [],
+    "icon32x32": "tachyons.io/img/logo.jpg",
+    "allowJS": false,
+    "ExternalURL": ""
+}
