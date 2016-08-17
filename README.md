@@ -2,7 +2,7 @@
 
 Docs Version: 4.0.5
 
-## USAGE
+### Usage
 
 If you would like to just use the docset. Import tachyons.docset into Dash.
 
@@ -19,3 +19,8 @@ You will now have a directory called `tachyons.docset` that contains all
 the documentation you need for Dash.
 
 Import tachyons.docset into Dash
+
+### Issues
+
+ - Broken internal links scattered throughout
+ - Add Dash TOC links
